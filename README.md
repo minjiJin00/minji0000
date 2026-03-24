@@ -25,6 +25,8 @@
 <h1>📚 Learning </h1> 
 <div align="center">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=Hibernate&logoColor=white">
+
 </div>
   
 <!--
